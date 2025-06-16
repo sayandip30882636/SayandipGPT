@@ -13,7 +13,7 @@ Check out the full demonstration video showing how the bot works inside Discord.
 
 > 🎥 The video includes:
 > - Real-time bot responses using Gemini 1.5 Flash
-> - Integration process on Discord
+> - Integration process on Replit
 > - Live testing on a sample Discord server
 
 
