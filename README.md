@@ -4,6 +4,20 @@
 
 ---
 
+## 📽️ Demo Video
+
+Watch SayandipGPT in action!  
+Check out the full demonstration video showing how the bot works inside Discord.
+
+🔗 [Watch Demo on Google Drive](https://drive.google.com/file/d/16mBLyDUGXzxY5ndhVyGaynynP7wyg7Ik/view?usp=sharing)
+
+> 🎥 The video includes:
+> - Real-time bot responses using Gemini 1.5 Flash
+> - Integration process on Discord
+> - Live testing on a sample Discord server
+
+
+
 ## 🚀 Key Features
 
 - 💡 Chatbot powered by Gemini 1.5 Flash (Google Generative AI)
